@@ -7,3 +7,6 @@ matplotlib==3.7.1
 plotly==5.15.0
 requests==2.31.0
 yfinance==0.2.18
+ccxt==1.95.0
+rithmic==0.1.0
+tradovate-api==1.0.0
