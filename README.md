@@ -1,6 +1,6 @@
 # AstroTrader
 
-AstroTrader is an advanced, multi-strategy trading bot designed to operate across various markets, including Cryptocurrencies on Binance and Coinbase, and Futures on Rithmic and Tradovate. Leveraging machine learning and AI capabilities, AstroTrader executes trades in real-time, ensuring optimal performance and profitability.
+AstroTrader is an advanced, multi-strategy trading bot designed to operate across various markets, including Binance, Coinbase, Rithmic, and Tradovate. Leveraging machine learning and AI capabilities, AstroTrader executes trades in real-time, ensuring optimal performance and profitability.
 
 ## 🚀 Features
 
@@ -14,13 +14,13 @@ AstroTrader is an advanced, multi-strategy trading bot designed to operate acros
 
 ## 🛠 Setup Instructions
 
-### **1. Prerequisites**
+### 1. Prerequisites
 
 - **Git:** For version control.
 - **Python 3.8+** installed on your local machine.
-- **API Keys:** Obtain necessary API keys from Binance, Coinbase, Rithmic, and Tradovate.
+- **API Keys:** Obtain necessary API keys from Binance, Coinbase, Rithmic, Tradovate, and OpenAI.
 
-### **2. Clone the Repository**
+### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/AstroTrader.git
